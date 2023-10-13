@@ -1,0 +1,40 @@
+[
+  {
+      "name": "Watch-1",
+      "price": 19.99,
+      "image": "Price-watch/watch1.jpg",
+      "description": "This is a description of Product 1."
+  },
+  {
+      "name": "Watch-2",
+      "price": 24.99,
+      "image": "Price-watch/watch2.jpg",
+      "description": "This is a description of Product 2."
+  },
+  {
+      "name": "Watch-3",
+      "price": 14.99,
+      "image": "Price-watch/watch3.jpg",
+      "description": "This is a description of Product 3."
+  },
+  {
+    "name": "Watch-4",
+    "price": 21.99,
+    "image": "Price-watch/watch4.jpg",
+    "description": "This is a description of Product 4."
+},
+{
+    "name": "Watch-5",
+    "price": 27.99,
+    "image": "Price-watch/watch5.jpg",
+    "description": "This is a description of Product 5."
+},
+{
+    "name": "Watch-6",
+    "price": 32.99,
+    "image": "Price-watch/watch6.jpg",
+    "description": "This is a description of Product 6."
+}
+]
+
+

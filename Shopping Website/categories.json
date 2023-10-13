@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "ANALOGUE WATCHES", "image": "watch-category/watch1.jpg" },
+    { "id": 2, "name": "DIGITAL WATCHES", "image": "watch-category/watch2.jpg" },
+    { "id": 3, "name": "QUARTZ WATCHES", "image": "watch-category/watch3.jpg" },
+    { "id": 4, "name": "DIVING WATCHES", "image": "watch-category/watch4.jpg" },
+    { "id": 1, "name": "AUTOMATIC WATCHES", "image": "watch-category/watch5.jpg" },
+    { "id": 2, "name": "SOLAR WATCHES", "image": "watch-category/watch6.jpg" },
+    { "id": 3, "name": "CHRONOGRAPH WATCHES", "image": "watch-category/watch7.jpg" },
+    { "id": 4, "name": "HYBRID WATCHES", "image": "watch-category/watch8.jpg" }
+  ]
+
